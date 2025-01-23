@@ -5,6 +5,6 @@
 
 <hr>
 
-<p align="center">While you're here, here's a quick joke (by ABSphreak/readme-jokes).</p>
+<p align="center">While you're here, here's a quick joke (by ABSphreak/readme-jokes):</p>
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes card" style="pointer-events: none;"/><div>
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes card"/><div>
