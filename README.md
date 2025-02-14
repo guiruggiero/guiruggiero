@@ -4,8 +4,10 @@
 
 <p align="center">Learn about my expertise in product management, artificial intelligence, and human-computer interaction - <b>chat with GuiPT, my AI assistant at <a href="https://guiruggiero.com/?utm_source=github&utm_medium=profile" target="_blank">guiruggiero.com</a>!</b></p>
 
+<div align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiruggiero&layout=compact" alt="Most used languages card"/></a></div>
+
 <hr>
 
-<p align="center">While you're here, here's a quick joke (by <code>ABSphreak/readme-jokes</code>):</p>
+<p align="center">While you're here, here's a quick joke:</p>
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes card"/></div>
+<div align="center"><a href=""><img src="https://readme-jokes.vercel.app/api" alt="Jokes card"/></a></div>
