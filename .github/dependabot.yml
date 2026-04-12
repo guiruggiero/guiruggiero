@@ -4,6 +4,7 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: monthly
-      time: "05:00"
+      interval: weekly
+      day: saturday
+      time: "00:00"
       timezone: America/Los_Angeles
